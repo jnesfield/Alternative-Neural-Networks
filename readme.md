@@ -8,6 +8,7 @@ In this repo we dive into alternative neural network structures for image classi
 - We then apply AdderNet: https://github.com/huawei-noah/AdderNet
 - We then apply SNNTorch to the problem: https://snntorch.readthedocs.io/en/latest/
 - Finally we apply AdderNet with SNNTorch
+- We use Average Accuracy for validtation on train and test data sets
 
 ## Basic Comparisons:
 
@@ -41,3 +42,5 @@ In this repo we dive into alternative neural network structures for image classi
 ###Findings:
 
 SNNTorch performs the best with test performance close to traditional Convolutional Networks. AdderNets as well as AdderNets with SNNTorch also perform well!
+
+Very interesting to observe how SNNTorch has narrow gap between training and test performance over time as opposed to AdderNets and Convolutional Networks which seem to overlearn and over time have a montonically increasing gap between train and test validation on average accuracy.
