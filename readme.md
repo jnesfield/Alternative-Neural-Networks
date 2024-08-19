@@ -25,7 +25,9 @@ In this repo we dive into alternative neural network structures for image classi
 | SNNTorch+AdderNet | 5     | 73.36                     | 72.98                 | [https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/FashionMNIST-SNNTorch-AdderNet-2.ipynb](https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/FashionMNIST-SNNTorch-AdderNet-2.ipynb) |
 | SNNTorch+AdderNet | 10    | 79.58                     | 78.82                 | [https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/FashionMNIST-SNNTorch-AdderNet.ipynb](https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/FashionMNIST-SNNTorch-AdderNet.ipynb)     |
 
-## Performance Ocer Epochs:
+## Performance Over Epochs:
+
+This shows the training performance over each epoch for each variants champion!
 
 ### ConvNet 
 <img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/ConvNetMnist.png" alt="Convolution Network Training" style="width: 563px; height:432px;"/>
