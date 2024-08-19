@@ -27,16 +27,16 @@ In this repo we dive into alternative neural network structures for image classi
 ## Performance Ocer Epochs:
 
 ### ConvNet 
-<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/ConvNetMnist.png" alt="Convolution Network Training" style="height: 563px; width:432px;"/>
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/ConvNetMnist.png" alt="Convolution Network Training" style="width: 563px; height:432px;"/>
 
 ### SNNTorch
-<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/SnnMnist.png" alt="SNNTorch Training" style="height: 563px; width:432px;"/>
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/SnnMnist.png" alt="SNNTorch Training" style="width: 563px; height:432px;"/>
 
 ### AdderNet
-<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/AdderMnist.png" alt="AdderNet Training" style="height: 563px; width:432px;"/>
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/AdderMnist.png" alt="AdderNet Training" style="width: 563px; height:432px;"/>
 
 ### SNNTorch + AdderNet
-<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/Snn_AdderMnist.png" alt="SNNTorch + AdderNet Training" style="height: 563px; width:432px;"/>
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/Snn_AdderMnist.png" alt="SNNTorch + AdderNet Training" style="width: 563px; height:432px;"/>
 
 ###Findings:
 
