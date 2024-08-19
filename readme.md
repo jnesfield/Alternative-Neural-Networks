@@ -27,4 +27,17 @@ In this repo we dive into alternative neural network structures for image classi
 ## Performance Ocer Epochs:
 
 ### ConvNet 
-<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/ConvNetMnist.png" alt="Convolution Network Training" style="height: 100px; width:100px;"/>
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/ConvNetMnist.png" alt="Convolution Network Training" style="height: 563px; width:432px;"/>
+
+### SNNTorch
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/SnnMnist.png" alt="SNNTorch Training" style="height: 563px; width:432px;"/>
+
+### AdderNet
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/AdderMnist.png" alt="AdderNet Training" style="height: 563px; width:432px;"/>
+
+### SNNTorch + AdderNet
+<img src="https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/Snn_AdderMnist.png" alt="SNNTorch + AdderNet Training" style="height: 563px; width:432px;"/>
+
+###Findings:
+
+SNNTorch performs the best with test performance close to traditional Convolutional Networks. AdderNets as well as AdderNets with SNNTorch also perform well!
