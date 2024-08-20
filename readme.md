@@ -11,7 +11,9 @@ In this repo we dive into alternative neural network structures for image classi
 - We use Average Accuracy for validtation on train and test data sets
 
 ### Here is a nice animation which gives a visual to help conceptualize how spiking neural networks operate.
-[![IMAGE ALT TEXT](https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/fda0a98ec7c2460b94d5eacf2d2b0be9.gif)]( https://youtu.be/3JQ3hYko51Y?si=nrvmjCGcJh2fq0qB "Neural Network Animations")
+[![IMAGE ALT TEXT](https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/fda0a98ec7c2460b94d5eacf2d2b0be9.gif)](https://youtu.be/3JQ3hYko51Y?si=nrvmjCGcJh2fq0qB "Neural Network Animations")
+
+Animation taken from: https://github.com/jnesfield/Alternative-Neural-Networks
 
 ## Basic Comparisons:
 
