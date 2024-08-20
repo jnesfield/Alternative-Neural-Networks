@@ -2,13 +2,16 @@
 
 ## Intro
 
-In this repo we dive into alternative neural network structures for image classification on the Mnist Fashion test data set.
+In this repo we dive into alternative neural network structures for image classification on the Mnist Fashion test data set. the alternatives we will test are AdderNet which replaces matrix multiplication in convolutional layers with simplified addition operations, and spiking neural networks which aim to mirror biological beurons where information passes thru the network via binary spike firings.
 - Base code was applied from: https://github.com/pytorch/ignite/blob/master/examples/notebooks/FashionMNIST.ipynb
 - We apply basic pytorch classification with a convolutional neural network.
 - We then apply AdderNet: https://github.com/huawei-noah/AdderNet
 - We then apply SNNTorch to the problem: https://snntorch.readthedocs.io/en/latest/
 - Finally we apply AdderNet with SNNTorch
 - We use Average Accuracy for validtation on train and test data sets
+
+### Here is a nice animation which gives a visual to help conceptualize how spiking neural networks operate.
+[![IMAGE ALT TEXT](https://github.com/jnesfield/Alternative-Neural-Networks/blob/main/fda0a98ec7c2460b94d5eacf2d2b0be9.gif)]( https://youtu.be/3JQ3hYko51Y?si=nrvmjCGcJh2fq0qB "Neural Network Animations")
 
 ## Basic Comparisons:
 
