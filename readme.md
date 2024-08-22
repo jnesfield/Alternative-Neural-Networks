@@ -50,4 +50,4 @@ This shows the training performance over each epoch for each variants champion!
 
 SNNTorch performs the best with test performance close to traditional Convolutional Networks. AdderNets as well as AdderNets with SNNTorch also perform well!
 
-Very interesting to observe how SNNTorch has narrow gap between training and test performance over time as opposed to AdderNets and Convolutional Networks which seem to overlearn and over time have a montonically increasing gap between train and test validation on average accuracy.
+Very interesting to observe how SNNTorch has a narrow gap between training and test performance over time as opposed to AdderNets and Convolutional Networks which seem to overlearn and over time have a montonically increasing gap between train and test validation on average accuracy.
